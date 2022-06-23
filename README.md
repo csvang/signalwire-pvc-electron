@@ -1,2 +1,11 @@
 # SignalWire PVC Electron POC
-Integrate SignalWire's Programmable Video Conference into Electron
+
+Integrating SignalWire's Programmable Video Conference into Electron
+
+## Setup
+
+- Using Node v16.15.1+
+- Install Node modules
+`npm i`
+- Start Electron app
+`npm start`
