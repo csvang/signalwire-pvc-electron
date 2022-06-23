@@ -17,4 +17,4 @@ Integrating SignalWire's Programmable Video Conference into Electron
 
 ## Example
 
-![Mac App Example](/sample/sample01.webp)
+![Mac App Example](/sample/sample01.webm)
