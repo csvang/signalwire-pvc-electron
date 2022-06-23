@@ -13,3 +13,8 @@ Integrating SignalWire's Programmable Video Conference into Electron
 ## Build App
 
 - Tested on Mac.  Creating *.app - `npm run make`
+
+
+## Example
+
+![Mac App Example](/sample/sample01.webp)
